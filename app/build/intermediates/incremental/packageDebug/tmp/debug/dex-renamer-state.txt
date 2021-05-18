@@ -1,0 +1,4 @@
+#Tue May 18 09:30:23 KGT 2021
+base.0=C\:\\Users\\azama\\AndroidStudioProjects\\iuca\\android-animations\\Lab8_android-animations\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
